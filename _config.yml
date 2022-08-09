@@ -30,7 +30,7 @@ url: "https://rlopezkaufman.github.io" # the base hostname & protocol for your s
   #github_username:  jekyll
 
 # Build settings
-theme: jekyll-whiteglass
+remote_theme: yous/whiteglass
 plugins:
   - jekyll-archives
   - jekyll-paginate
