@@ -7,5 +7,9 @@ layout: home
 
 # Welcome!
 
-I'm Raphael, a research engineer at DeepMind working on reinforcement learning.
+I'm Raphael, a research engineer at DeepMind.
+
+I've worked mainly on multitask reinforcement learning in 3D embodied worlds.
+I'm also interested in the reliability of large scale research infrastructure.
+
 More info about me on my [Linkedin profile](https://www.linkedin.com/in/rlkrlk/).
